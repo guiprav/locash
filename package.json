@@ -5,6 +5,7 @@
   "homepage": "https://github.com/n2liquid/locash#readme",
   "author": "Guilherme Prá Vieira (super.driver.512@gmail.com)",
   "license": "AGPL-3.0+",
+  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/n2liquid/locash.git"
